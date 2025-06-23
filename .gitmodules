@@ -1,0 +1,21 @@
+[submodule "snipersim"]
+	path = snipersim
+	url = https://github.com/snipersim/snipersim.git
+[submodule "gpgpu-sim"]
+	path = gpgpu-sim
+	url = https://github.com/gpgpu-sim/gpgpu-sim_distribution.git
+[submodule "interchiplet/thirdparty/spdlog"]
+	path = interchiplet/thirdparty/spdlog
+	url = https://github.com/gabime/spdlog.git
+[submodule "interchiplet/thirdparty/CLI11"]
+	path = interchiplet/thirdparty/CLI11
+	url = https://github.com/CLIUtils/CLI11.git
+[submodule "interchiplet/thirdparty/yaml-cpp"]
+	path = interchiplet/thirdparty/yaml-cpp
+	url = https://github.com/jbeder/yaml-cpp.git
+[submodule "gem5"]
+	path = gem5
+	url = https://github.com/gem5/gem5.git
+[submodule "popnet_chiplet"]
+	path = popnet_chiplet
+	url = https://github.com/SunParis/popnet_chiplet_v2.git
